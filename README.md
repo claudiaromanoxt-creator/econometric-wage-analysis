@@ -9,4 +9,4 @@ This repository contains a quantitative data analysis project estimating the uni
 * **Bootstrapping:** Implemented bootstrap resampling from scratch to derive standard errors and 95% confidence intervals for the union premium.
 
 ### Files in this repository
-* `assignment.ipynb`: The main Jupyter Notebook containing the full Python code, visualizations, and econometric conclusions.
+* `Assignment_lab_wage premium.ipynb`: The main Jupyter Notebook containing the full Python code, visualizations, and econometric conclusions.
